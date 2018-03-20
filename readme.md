@@ -1,6 +1,5 @@
-BOARDS FOR DIT <br>
-charden daxicen on 20th march 2018 <br/>
-<br/>
+BOARDS API <br> <br>
+<br/> <br/>
 Api Functionality<br/>
 <br/>
 AppInstance<br/>
