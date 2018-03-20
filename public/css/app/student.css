@@ -1,0 +1,38 @@
+.mini-menu {
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-bottom: 12px;
+}
+
+.posts-holder {
+    background-color: #E6ECF0;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-bottom: 12px;
+
+}
+
+.post{
+    background-color: #FFFFFF;
+    border-left: solid 6px #aaaaaa;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding: 8px;
+}
+
+.post-time{
+    margin: 8px;
+}
+
+
+.post-heading{
+    margin: 8px;
+}
+
+.post-body{
+    margin: 8px;
+}
+
+.post-sender{
+    margin: 8px;
+}
