@@ -1,36 +1,35 @@
-BOARDS FOR DIT
-charden daxicen on 20th march 2018
+BOARDS FOR DIT <b>
+charden daxicen on 20th march 2018 <b>
+<b>
+Api Functionality<b>
+<b>
+AppInstance<b>
+  -Create AppInstance √ <b>
+  -Read AppInstance details √ <b>
+  -Update AppInstance details  √ <b>
+  -Delete AppInstance  //TODO <b>
+<b>
+Student <b>
+  -Create student √ <b> 
+  -Read student details √ <b>
+  -Update student details (department, course , class, title ) √ <b>
+  -Delete student/ Disable a student //TODO <b>
+<b>
+  -Login (associate user with app instance) √ <b>
+  -verify email //TODO <b>
+  -reset password //TODO <b>
+<b>
+Post <b>
+  -Create Post √ <b>
+  -Retrieve Posts (asociated with that a user) √ <b>
+  -Read Post details <b>
+  -Update Post details <b>
+  -Delete Post <b> <b> <b> <b>
 
-Api Functionality
-
-AppInstance
-  -Create AppInstance √
-  -Read AppInstance details √
-  -Update AppInstance details  √
-  -Delete AppInstance  //TODO
-
-Student
-  -Create student √
-  -Read student details √
-  -Update student details (department, course , class, title ) √
-  -Delete student/ Disable a student //TODO
-
-  -Login (associate user with app instance) √
-  -verify email //TODO
-  -reset password //TODO
-
-Post
-  -Create Post √
-  -Retrieve Posts (asociated with that a user) √
-  -Read Post details
-  -Update Post details
-  -Delete Post
 
 
+foot notes  TODO <b>
+ ==>First time startup  <b>
+    -registerApp <b>
+    -storeApp instance <b>
 
-foot notes  TODO
- ==>First time startup
-    -registerApp
-    -storeApp instance
-
-==> Associate user with application instances
